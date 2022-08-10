@@ -35,5 +35,5 @@
 
 サンプルを置いておきます。
 
-[ユーザーストーリーのサンプル（応募者側）](sample-story-engineer.md)
-[ユーザーストーリーのサンプル（依頼主側）](sample-story-client.md)
+- [ユーザーストーリーのサンプル（応募者側）](sample-story-engineer.md)
+- [ユーザーストーリーのサンプル（依頼主側）](sample-story-client.md)
