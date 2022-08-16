@@ -45,13 +45,13 @@
 サンプルを置いておきます。  
 参考にしてみてください。
 
-- [ユーザーストーリーのサンプル（応募者側）](sample-story-engineer.md)
-- [ユーザーストーリーのサンプル（依頼主側）](sample-story-client.md)
+- [ユーザーストーリーのサンプル（応募側）](sample-story-engineer.md)
+- [ユーザーストーリーのサンプル（募集側）](sample-story-client.md)
 
 ## こちらのファイルにユーザーストーリーを書いてください
 
-- [ユーザーストーリー（応募者側）](story-engineer.md)
-- [ユーザーストーリー（依頼主側）](story-client.md)
+- [ユーザーストーリー（応募側）](story-engineer.md)
+- [ユーザーストーリー（募集側）](story-client.md)
 
 ## 参考文献
 
