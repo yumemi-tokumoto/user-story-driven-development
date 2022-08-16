@@ -51,3 +51,6 @@
 
 - [ユーザーストーリー（応募者側）](story-engineer.md)
 - [ユーザーストーリー（依頼主側）](story-client.md)
+
+## 参考文献
+- [ワイ記法でちょっとした要件定義をしてみた話 - Qiita](https://qiita.com/Yametaro/items/c3a981b55532db779466)
